@@ -19,7 +19,7 @@ public class CalcTest {
 
 	@Test	
       public void testCalc() {
-        assertEquals("Result", 9, 9);
+        assertEquals("Result", 10, 9);
       }
 
 	@Test	
